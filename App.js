@@ -16,6 +16,7 @@ function HomeScreen({ navigation }) {
         onPress={() => navigation.navigate("Gallery")}
       />
       <Text>Hello!</Text>
+      <Text>Hello!</Text>
     </View>
   );
 }
