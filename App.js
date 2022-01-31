@@ -15,6 +15,7 @@ function HomeScreen({ navigation }) {
         title="Go to Gallery"
         onPress={() => navigation.navigate("Gallery")}
       />
+      <Text>Hello!</Text>
     </View>
   );
 }
