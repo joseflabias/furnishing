@@ -17,6 +17,7 @@ function HomeScreen({ navigation }) {
       />
       <Text>Hello!</Text>
       <Text>Hello!</Text>
+      <Button title={"button"} />
     </View>
   );
 }
