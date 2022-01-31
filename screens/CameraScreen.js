@@ -37,6 +37,7 @@ export default function App() {
           </TouchableOpacity>
         </View>
       </Camera>
+      <Text>my text</Text>
     </View>
   );
 }
